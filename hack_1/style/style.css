@@ -1,0 +1,20 @@
+:root{
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849;
+}
+
+#padre{
+    position: relative;
+    background: none;
+}
+
+#hijo{
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url('../hack_1.png');
+    background-position: center center;
+    z-index: -1;
+}
