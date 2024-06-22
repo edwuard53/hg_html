@@ -1,6 +1,6 @@
 
 # Tecnología
-- [ ] HTML
+- [x] HTML
 - [ ] CSS3 
 - [ ] docs
 
