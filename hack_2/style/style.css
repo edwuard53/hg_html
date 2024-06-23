@@ -1,20 +1,47 @@
-:root{
-    --bg-blue: #93B5C9;
-    --bg-wine: #AB2849;
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
-#padre{
-    float: left;
-    background: none;
+.caja1{
+    width: 100%;
+    height: 100px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #93B5C9;
+    background-position: center center;
+    z-index: -1;
 }
-
-#hijo{
-    float: right;
+.caja2{
     width: 100%;
     height: 200px;
     background-size:cover;
     background-repeat:no-repeat;
-    background-image: url('../hack_2.png');
+    background-color: #AB2849;
     background-position: center center;
     z-index: -1;
+}
+
+.cajas3456{
+    width: 85%;
+    height: 100px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #AB2849;
+    margin-top:2%;
+    float: left;
+}
+
+.caja7{
+    width: 91%;
+    height: 80px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #AB2849;
+    background-position: center center;
+    z-index: -1;
+    margin-top:2%;
+    float: left;
+    margin-left:50px;
 }
