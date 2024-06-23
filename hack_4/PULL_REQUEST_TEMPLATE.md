@@ -9,4 +9,4 @@
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
-- [ ] Testing
+- [ ] Testing.
