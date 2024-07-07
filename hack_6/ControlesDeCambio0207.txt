@@ -1,0 +1,6 @@
+CC-001-27: Ajustes generales para la Inactivación de monedas en el maestro de país - Epica de Gestión de pago
+https://tree.taiga.io/project/maybetmvc-desarrollo-de-la-segunda-fase-del-aplicativo-sgc-sistema-de-gestion-consular/us/893
+
+
+CC - Ajuste en el registro de usuarios venezolanos en tránsito
+https://tree.taiga.io/project/maybetmvc-desarrollo-de-la-segunda-fase-del-aplicativo-sgc-sistema-de-gestion-consular/us/835?milestone=396229
